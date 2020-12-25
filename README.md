@@ -4,8 +4,6 @@
 ## I'm a student trying to explore the world of programming!
 ## Consider checking out my WIP [website] and my [repos]
 
-<br />
-
 ### Languages and Tools:
 
 
