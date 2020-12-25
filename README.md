@@ -1,8 +1,8 @@
-## Hi, I'm Alex  👋
+# Hi, I'm Alex  👋
 
 
-### I'm a student trying to explore the world of programming!
-### Consider checking out my WIP [website] and my [repos]
+## I'm a student trying to explore the world of programming!
+## Consider checking out my WIP [website] and my [repos]
 
 ### Languages and Tools:
 
