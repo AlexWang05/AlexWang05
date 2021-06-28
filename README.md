@@ -19,20 +19,11 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.alexwang05.vercel.app/api?username=alexwang05&show_icons=true&hide_border=true" />
-
-</details>
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWang05&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWang05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Alex's GitHub Top Languages" src="https://github-readme-stats.alexwang05.vercel.app/api/top-langs/?username=alexwang05" />
-
-</details>
 
 [website]: https://alexwang05.github.io/
 [repos]: https://github.com/AlexWang05?tab=repositories
