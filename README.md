@@ -1,7 +1,7 @@
 ## Hi, I'm Alex  👋
 
 
-### I'm a student trying to explore the world of programming!
+### I'm a first-year CS student at UC Berkeley.
 ### My [website] and [repos]
 
 ### Languages and Tools:
