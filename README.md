@@ -2,7 +2,7 @@
 
 
 ### I'm a first-year CS student at UC Berkeley.
-### My [website] and [repos]
+### Please refer to my [website] for an updated profile!
 
 ### Languages and Tools:
 
@@ -20,11 +20,9 @@
 <br />
 <br />
 
-[//]: # [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexWang05&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWang05&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-[website]: https://alexwang05.github.io/
-[repos]: https://github.com/AlexWang05?tab=repositories
+[website]: https://alexwang.tech/
