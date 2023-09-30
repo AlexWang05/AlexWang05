@@ -25,4 +25,4 @@
 
 
 
-[website]: https://alexwang.tech/
+[website]: http://alexwang.tech/
