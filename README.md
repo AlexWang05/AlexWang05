@@ -2,7 +2,8 @@
 
 
 ### I'm a first-year CS student at UC Berkeley.
-### Please refer to my [website] for an updated profile!
+#### For a more up-to-date overview of my interests and projects, please refer to my [website].
+#### Need a *most* up-to-date overview? Please [reach out directly] for a CV/Resume!
 
 ### Languages and Tools:
 
@@ -26,4 +27,6 @@
 
 
 [website]: http://alexwang.tech/
+[reach out directly]: https://alexwang.tech/#contact
 [repos]: https://github.com/AlexWang05?tab=repositories
+
