@@ -2,7 +2,7 @@
 
 
 ### I'm a first-year CS student at UC Berkeley.
-#### For a more up-to-date overview of my interests and projects, please refer to my [website].
+### Unfortunately, most of my repos are not public; for a more up-to-date overview of my interests and projects, please refer to my [website].
 #### Need a *most* up-to-date overview? Please [reach out directly] for a CV/Resume!
 
 ### Languages and Tools:
