@@ -2,13 +2,8 @@
 
 
 ### I'm a first-year CS student at UC Berkeley.
-I'm currently working on efficient high-content volume processing techniques for MRIs with the Abbasi Lab at UCSF.
 
-In the past, I worked on research in robust 3D CT segmentation methods and biomedical image processing at UC Santa Barbara. With HCI researchers at UCSB, I also conducted studies and published research in Immersive Mixed/Augmented Reality.
-
-Before that, I've also worked on ML-based stress prediction software for a cloud computing/virtualization lab, and conducted literature reviews for work in keystroke dynamics at Carnegie Mellon University.
-
-### Unfortunately, most of my best repos are not public.
+### Unfortunately, most of my repos are not public.
 For a more up-to-date overview of my interests and projects, please refer to my [website].
 
 Need a *most* up-to-date overview? Please [reach out directly] for a CV/Resume!
