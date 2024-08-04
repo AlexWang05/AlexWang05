@@ -1,7 +1,7 @@
 ## Hi, I'm Alex  👋
 
 
-### I'm a first-year CS student at UC Berkeley.
+### I'm a CS student at UC Berkeley.
 
 ### Unfortunately, most of my repos are not public.
 For a more up-to-date overview of my interests and projects, please refer to my [website].
