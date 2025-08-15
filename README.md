@@ -2,7 +2,7 @@
 
 #### I'm a third-year CS student at [UC Berkeley](https://eecs.berkeley.edu/)
 
-I’ve worked across the software stack, from low-level systems programming to modern web and mobile apps—building OS kernel extensions in C, distributed systems with RPC/MapReduce in Rust, and full-stack platforms in TypeScript.
+I’ve worked across the software stack, from low-level systems programming to modern web and mobile apps—building OS kernel extensions in C, distributed systems with RPC/MapReduce in Rust, and full-stack platforms in TypeScript, Java, and beyond.
 
 I'm passionate about designing scalable, efficient systems and shipping production-quality features.
 
